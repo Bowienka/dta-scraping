@@ -26,7 +26,6 @@ with st.expander("📋 Zadání projektu", expanded=True):
     #### Technické požadavky:
     - Použijte knihovnu `requests` pro stažení stránky
     - Použijte `BeautifulSoup` pro parsování HTML
-    - Implementujte proper HTTP hlavičky
     - Ošetřete možné chyby
     - Přidejte komentáře vysvětlující klíčové části kódu
     """)
